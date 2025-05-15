@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, my name is Gustavo Padovezi 👋
+🔭 I’m a researcher currently working on Artificial Intelligence, data science and statistics, and these topics applications to the health science.
 
 <!--
 **gupadovezi/gupadovezi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
