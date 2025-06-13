@@ -1,5 +1,5 @@
 ## Hi there, my name is Gustavo Padovezi 👋
-🔭 I’m a researcher currently working on Artificial Intelligence, Data Science and Statistics, and these topics applications to health science. I work with Python and R language 😄⚡.
+🔭 I’m a researcher currently working on Artificial Intelligence, Machine Learning, Data Science and Statistics, and these topics applications to health science. I work with Python and R language 😄⚡.
 <!--
 **gupadovezi/gupadovezi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
