@@ -1,4 +1,5 @@
 ## Hi there, my name is Gustavo Padovezi!
+I’m a researcher & Data Scientist & Developer currently working on Artificial Intelligence, Machine Learning, Statistics and these topics applications to health science. My main work is with Python and R language.
 
 🎓 Master’s student in Physiotherapy at the University of São Paulo (UNICID)  
 💻 Computer Science undergraduate student with a focus on health technology  
