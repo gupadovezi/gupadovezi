@@ -3,6 +3,16 @@ I’m a researcher & Data Scientist currently working on Artificial Intelligence
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
+</div>
+  <a href="https://github.com/gupadovezi">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=gupadovezi&theme=shadow_blue&show_icons=true">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gupadovezi&layout=compact&langs_count=16&theme=shadow_blue"/>
+
+  </div>
+
+
+
+
   
 </div>
 <a href="https://www.instagram.com/gupadovezi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
