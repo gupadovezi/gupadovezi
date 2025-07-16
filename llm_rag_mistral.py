@@ -18,7 +18,7 @@ except ImportError:
     from sentence_transformers import SentenceTransformer
 
 # Get Mistral API key (hardcoded)
-API_KEY = "8NX3Hra1TmcgPxJwZ0YiLMWBFLsw5NfR"
+API_KEY = "SET_API_KEY"
 
 # Use a valid Mistral model name
 MODEL_ID = "mistral-medium"  # You can change to 'mistral-small' or 'mistral-large' if needed
