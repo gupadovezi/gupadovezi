@@ -3,7 +3,7 @@ I’m a researcher & Data Scientist & Developer currently working on Artificial 
 
 🎓 Master’s student in Physiotherapy at the University of São Paulo (UNICID)  
 💻 Computer Science undergraduate student with a focus on health technology  
-🔬 Researcher in musculoskeletal health, evidence-based practice, and systematic reviews  
+🔬 Researcher in Artificial Intelligence, musculoskeletal health, evidence-based practice, and systematic reviews  
 🧠 Developer of AI-powered tools for clinical research and data extraction  
 📊 Currently exploring NLP and data science to automate and enhance evidence-based healthcare
 
