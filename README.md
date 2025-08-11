@@ -5,7 +5,6 @@ I’m a researcher & Data Scientist & Developer currently working on Artificial 
 💻 Computer Science undergraduate student with a focus on health technology  
 🔬 Researcher in Artificial Intelligence, musculoskeletal health, evidence-based practice, and systematic reviews  
 🧠 Front-end and back-end developer
-📊 Currently exploring NLP and data science to automate and enhance evidence-based healthcare
 
 <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"> <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
