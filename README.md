@@ -6,7 +6,7 @@ I’m a researcher & Data Scientist & Developer currently working on Artificial 
 🔬 Researcher in Artificial Intelligence, musculoskeletal health, evidence-based practice, and systematic reviews  
 🧠 Front-end and back-end developer
 
-<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"> <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="GP-swift" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
+<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"> <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="GP-swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
 
 </div>
   <a href="https://github.com/gupadovezi">
