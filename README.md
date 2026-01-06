@@ -2,11 +2,12 @@
 I’m a researcher & Data Scientist & Developer currently working on Artificial Intelligence, Machine Learning, Statistics and these topics applications to health science. My main work is with Python and R language.
 
 🎓 Master’s student in Physiotherapy at the University of São Paulo (UNICID)  
-💻 Computer Science undergraduate student with a focus on health technology  
+💻 Computer Science undergraduate student with a focus on health technology, development and data science  
 🔬 Researcher in Artificial Intelligence, musculoskeletal health, evidence-based practice, and systematic reviews  
 🧠 Front-end and back-end developer
 
-<img align="center" alt="GP-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"> <img align="center" alt="GP-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="GP-swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"> <img align="center" alt="GP-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> 
+<img align="center" alt="GP-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"> <img align="center" alt="GP-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="GP-swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"> <img align="center" alt="GP-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> <img align="center" alt="GP-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> <img align="center" alt="GP-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">  <img align="center" alt="GP-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+
 
 </div>
   <a href="https://github.com/gupadovezi">
